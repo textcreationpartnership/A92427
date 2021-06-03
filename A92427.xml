@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A remonstrance from the army, to the citizens of London, to be read and published throughtout the severall wards and parishes of the cities of London, and Westminster, the borough of Southwarke, and parts adjacent. Sent form St. Albanes on Wednesday Novem. 15. 1648. And their declaration for peace, and bringing of the Kings Majesty to London, and sending for the Prince of VVales from Holland; together with their protestation to joyn with the King and Parliament in the treaty. Likewise, exceeding joyfull newes from the King, declaring the articles, and acts of agreement for a present peace. Agreed upon by his Majesty and the commissioners, on Munday Novemb. 13. 1648.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92427</idno><idno type="EEBO-CITATION">99865035</idno>
+  <idno type="VID">162419</idno>
+  <idno type="EEBO-PROQUEST">2240919859</idno>
+  
+            <idno type="STC">Wing R983</idno>
+            <idno type="STC">Thomason E472_13</idno>
+            <idno type="STC">ESTC R205751</idno>
+            <idno type="PROQUEST">99865035</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865035e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92427)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162419)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E472[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A remonstrance from the army, to the citizens of London, to be read and published throughtout the severall wards and parishes of the cities of London, and Westminster, the borough of Southwarke, and parts adjacent. Sent form St. Albanes on Wednesday Novem. 15. 1648. And their declaration for peace, and bringing of the Kings Majesty to London, and sending for the Prince of VVales from Holland; together with their protestation to joyn with the King and Parliament in the treaty. Likewise, exceeding joyfull newes from the King, declaring the articles, and acts of agreement for a present peace. Agreed upon by his Majesty and the commissioners, on Munday Novemb. 13. 1648.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Novemb. 16. Printed for Joseph Hill,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "No: 16".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649.</term>
+               <term type="corporate_name">England and Wales. --  Army --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162419:1"/>
+            <p>A REMONSTRANCE FROM THE ARMY, TO The Citizens of <hi>London,</hi> to be read and published throughout the severall Wards and Parishes of the Cities of <hi>London,</hi> and <hi>Westminster,</hi> the Borough of <hi>Southwarke,</hi> and parts adjacent.</p>
+            <p>
+               <hi>Sent from St. Albanes on</hi> Wednesday <hi>Novem.</hi> 15. 1648.</p>
+            <p>AND Their Declaration for Peace, and bringing of the Kings Majesty to <hi>London,</hi> and sending for the Prince of <hi>VVales</hi> from <hi>Holland;</hi> together with their <hi>Protestation</hi> to joyn with the <hi>King</hi> and <hi>Parliament</hi> in the <hi>Treaty.</hi>
+            </p>
+            <figure>
+               <figDesc>woodcut portrait of Charles I</figDesc>
+            </figure>
+            <p>Likewise, exceeding joyfull Newes from the <hi>King,</hi> declaring the <hi>Articles,</hi> and <hi>Acts</hi> of <hi>Agreement</hi> for a present <hi>peace. Agreed upon by his Majesty and the Commissioners, on</hi> Munday <hi>Novemb.</hi> 13. 1648.</p>
+            <p>
+               <hi>Novemb.</hi> 16. Printed for <hi>Joseph Hill,</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162419:2"/>
+            <pb n="1" facs="tcp:162419:2"/>
+            <head>THE REMONSTRANCE OF THE ARMY SENT To the Citizens of <hi>London,</hi> communicating their De<g ref="char:EOLhyphen"/>sires touching the <hi>King</hi> and the <hi>Treaty,</hi> and their Resolution to comply with them therein.</head>
+            <opener>
+               <salute>Gentlemen, and Fellow-Commoners,</salute>
+            </opener>
+            <p>VVHereas there are many false sugge<g ref="char:EOLhyphen"/>stions and evill aspersions cast upon the <hi>Army,</hi> by the insolent and corru<g ref="char:EOLhyphen"/>pted
+<pb n="2" facs="tcp:162419:3"/>Spirits of the adverse party, and their Abettors, and whose hearts are still inflamed, against all those who countenance or embrace our Cause, as is plainly evidenced by their late Designes throughout the City and Kingdom, and their spreading of the black and dis<g ref="char:EOLhyphen"/>mall Cloud throughout all the corners of the Nation, for the making of the Army odious to the sight and judgment of all men; as also their present drawing of the Curtain, to make vent and way for the uttering of their false and abominable calumniations against us, in saying that our counsels and consultations tends to nothing else, but the utter subversion of all Kingly and Monarchical Government, and that our endeavours are for the obstructing of the <hi>Treaty,</hi> and ruling the King<g ref="char:EOLhyphen"/>dom by the power of the Sword.</p>
+            <p>Therefore, for vindication of the <hi>Army</hi> from these unparaleld calumniations, we do demonstrate and de<g ref="char:EOLhyphen"/>clare, that our hearts are free from the least thought or action for the subversion of Authority or Govern<g ref="char:EOLhyphen"/>ment.</p>
+            <p>Protesting to live and dye in the true maintenance and preservation of the same.</p>
+            <p>And as we have heretofore demonstrated our great and earnest desires for peace, so we do again declare, that nothing shall be wanting in Us, for the promoting of the said happy and blessed work; and that (notwith<g ref="char:EOLhyphen"/>standing all aspersions whatsoever) we shall use our utmost endeavours for the accomplishing of a true &amp; lasting peace, which wee have so dearly bought by the price, and ransome, of so many thousand innocent and precious soules, who have sacrisiced their lives in these eight yeers wars.</p>
+            <pb n="3" facs="tcp:162419:3"/>
+            <p>And as for the present Treaty in hand between the <hi>King</hi> and <hi>Parliament,</hi> we do declare that we shall not obstruct the same, nor meddle therein; provided, that we may be assured of security for the future, our ar<g ref="char:EOLhyphen"/>rears paid, the great burthen of the Kingdom removed and taken off, Religion setled, and the Subject freed from all tyranny and oppression either from Prince or Representatives.</p>
+            <p>These things being enacted, and confirmed to all fu<g ref="char:EOLhyphen"/>ture Generations, we do unanimously declare, that none shall be more willing to enjoy that which we have so dearly purchased then our selves; and that we shall en<g ref="char:EOLhyphen"/>deavour the re-inthroning of our Soveraign, the cal<g ref="char:EOLhyphen"/>ling home the Prince and the Duke of <hi>Yorke,</hi> and the composing of all other differences, in Church and State.</p>
+            <closer>
+               <signed>
+                  <hi>Signed by divers Agents of the Army, in the Name of themselves, and all the free-born people of</hi> England, <hi>and commanded to be forthwith prin<g ref="char:EOLhyphen"/>ted and published.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>This day divers of the Officers of the Army met at the <hi>Bull-head,</hi> where they debated many excellent things tending to peace; and upon the close of their consultations declared their most pious and unanimus resolutions for peace, referring the further results thereof till <hi>Thursday.</hi>
+               </p>
+               <closer>
+                  <dateline>
+                     <hi>St. Albans</hi>
+                     <date>15 <hi>Novemb.</hi> 1648.</date>
+                  </dateline>
+               </closer>
+            </postscript>
+         </div>
+         <div type="document">
+            <pb n="4" facs="tcp:162419:4"/>
+            <head>The Desires of the Army.</head>
+            <p>VVHereas we have a long time beheld the sad and bleeding condition of this poor di<g ref="char:EOLhyphen"/>stressed and languishing Kingdome, and our hearts be<g ref="char:EOLhyphen"/>ing burthened with the unsetled condition thereof, we therefore thought requisite (by the advice and autho<g ref="char:EOLhyphen"/>rity of the Officers and Souldiery) o declare the sense and resolution of the Army (,as also their resentment (now under your Excellencies immediate conduct) and to present these ensuing Proposals; to the end, they may be speedily communicated to both Houses of Parliament, <hi>viz.</hi>
+            </p>
+            <p n="1">1 That present provision be made for constant pay of the Army. 3 That a period may be set for this pre<g ref="char:EOLhyphen"/>sent Parliament to end as soon as may be with safety, and provisions made for future Parliaments to meet certain without Writ or Summons. 3 That Rules may be set down between the People and their Representa<g ref="char:EOLhyphen"/>tives. 4 That Laws may be made in things civill to bind all men, so that men in no case of offence may be freed from the Law whereunto another is subject. 5 That all those common grievances and desires ex<g ref="char:EOLhyphen"/>pressed in the <hi>London</hi> Petition, be speedily granted and redressed. 6 That the supream power may be declared and determined, that the want thereof may not bee the greund of future (as it hath beene of these former) wars▪ 6 That speedy and impartial Justice may be exe<g ref="char:EOLhyphen"/>cuted upon all fomenters, contrivers, and actors in the first and late warre. 7 That the heavy burden of free quarter may be taken off. 8 That in as much as the As<g ref="char:EOLhyphen"/>sesments fall short to pay the Army; that therefore there may be additionall supplies out of the Estates of the old and new Delinquents, that there be no more
+<pb n="5" facs="tcp:162419:4"/>tax or charge to the Common-wealth. 9 That forth<g ref="char:EOLhyphen"/>with an account bee called for from all persons that have been betrusted with any thing for the State, that the Kingdome may be satisfied therein. 10 That the Deanes and Chapters Lands may be given to pay the Souldiers Arrears, seeing the Parliament have given a<g ref="char:EOLhyphen"/>way the Delinquents Estates that should have done it.</p>
+            <p>These things being the sense and resolution of the whole Army, they desire to have the said Proposals communidated to the view both of King and people. And in consideration thereof, his Excellency hath de<g ref="char:EOLhyphen"/>clared their resentment to the Committee of the Ar<g ref="char:EOLhyphen"/>my,</p>
+            <p>Desiring that the intollerable burden, and many pres<g ref="char:EOLhyphen"/>sures now lying upon the Kingdom, occasioned by free quarter, may be removed, And his Excellency further declared, that he hoped ere this they should have re<g ref="char:EOLhyphen"/>ceived some good fruit of their last consultations with the Councell of the Army, the matters then agreed on, being of such publike concernment, and so much re<g ref="char:EOLhyphen"/>quiring expedition.</p>
+            <p>Further intimating, that he earnestly desireth that the two Houses would be pleased to improve their ut<g ref="char:EOLhyphen"/>most endeavour for a quick dispatch in providing ef<g ref="char:EOLhyphen"/>fectually for the Army, to prevent those ill consequen<g ref="char:EOLhyphen"/>ces, which otherwise delay therein may produce.</p>
+            <closer>By the Appointment of his Excellency, and the Coun<g ref="char:EOLhyphen"/>cell of the Army, and commanded to be printed and published, and communicated to both Houses of Par<g ref="char:EOLhyphen"/>liament assembled at <hi>Westminster.</hi>
+            </closer>
+         </div>
+         <div type="document">
+            <pb n="6" facs="tcp:162419:5"/>
+            <head>
+               <hi>Novemb.</hi> 15. 1648.</head>
+            <p>LEtters from the Isle of <hi>Wight</hi> say, That his Maje<g ref="char:EOLhyphen"/>sty hath sent a Letter to the Lord Gen. <hi>Fairfax,</hi> in<g ref="char:EOLhyphen"/>timating, His earnest desires for peace, requiring his Excellency, and the Councell of the Army to be in<g ref="char:EOLhyphen"/>strumenall therein, promising upon his Royall Word to satisfie all things by them desired, and to enact and make proclamation thereupon, throughout all Cities, Counties, and Market townes, within the Kingdome of <hi>England</hi> and Dominion of <hi>Wales.</hi>
+            </p>
+            <p>And it is further demonstrated, that his Majesty hath promised on his Royall Word to grant power to His two Houses (by an <hi>Act</hi>) to nominate Officers of State for 20 years. As also to grant an <hi>Act</hi> to confirme the lesser Catechism, (agreed upon by both Houses) to be read and published in all Churches throughout the Kingdoms of <hi>England</hi> and <hi>Ireland,</hi> and Dominion of <hi>Wales.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
